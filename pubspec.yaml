@@ -1,6 +1,6 @@
 name: to_faminto_client
 description: Tô Faminto
-version: 0.1.22+2.0.200
+version: 0.1.22+3.0.000
 
 environment:
   sdk: ">=2.10.0 < 3.0.0"
