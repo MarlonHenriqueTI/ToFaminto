@@ -17,11 +17,17 @@ dependencies:
   geolocator: ^6.1.6
   flutter_svg: ^0.19.1
   firebase_messaging: ^7.0.3
+  flutter_launcher_icons: ^0.8.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.8.0
 
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.jpeg"
 
 flutter:
   uses-material-design: true
